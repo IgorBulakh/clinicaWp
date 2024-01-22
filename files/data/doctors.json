@@ -30,7 +30,7 @@
       "position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
       "media": {
         "avatar": "doctors/doctor-2.jpg",
-        "main": "doctors/main-img.png",
+        "main": "doctors/doctor-main2.png",
         "gallery":{
           "small": ["doctors/galery-1.jpg","doctors/galery-2.jpg"],
           "big": ["doctors/galeryBig-1.jpg","doctors/galeryBig-2.jpg"]
@@ -53,7 +53,7 @@
       "position": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
       "media": {
         "avatar": "doctors/doctor-3.jpg",
-        "main": "doctors/main-img.png",
+        "main": "doctors/doctor-main3.png",
         "gallery":{
           "small": ["doctors/galery-1.jpg","doctors/galery-2.jpg","doctors/galery-4.jpg"],
           "big": ["doctors/galeryBig-1.jpg","doctors/galeryBig-2.jpg","doctors/galeryBig-4.jpg"]
